@@ -1,0 +1,393 @@
+No,IMGT entry ID,IMGT molecule name,Species,IMGT entry type,IMGT receptor description,Ligand(s),Experimental technique,Resolution,PDB release�date
+62,6oc7,"Fab HMP42, anti-HIV, broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Immunoglobulin G-binding protein G (Protein),X-ray diffraction,1.3,05/02/20
+17,3nps,Fab S4,Homo sapiens,PDB,FAB-GAMMA-1_V-LAMBDA-C-KAPPA,"Suppressor of tumorigenicity 14 protein (Q9Y5Y6), E.C: 3.4.21.109 (Protein)",X-ray diffraction,1.5,29/02/12
+67,6vln,"Fab 4498, anti-PfCSP",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Circumsporozoite (136-147) P02893 (Peptide); VHH, anti-Kappa (Protein)",X-ray diffraction,1.63,17/06/20
+29,4j6r,"VRC23 mAb, anti-gp120 [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp160 (Protein),X-ray diffraction,1.64,08/05/13
+36,4xvt,DONOR 45 45-VRC01.H01+07.O-863513/45-VRC01.L01+07.O-110653,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Envelope glycoprotein gp120, HIV-1 CLADE A/E (Protein)",X-ray diffraction,1.69,15/07/15
+31,4n1c,V-KAPPA,Homo sapiens,PDB,(V-KAPPA),Lysozyme C (Protein),X-ray diffraction,1.7,29/10/14
+44,5n88,VH59 antibody,Homo sapiens,PDB,VH,PC4 and SFRS1-interacting protein (Protein),X-ray diffraction,1.7,20/12/17
+24,4fqi,CR9114 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin HA (Protein),X-ray diffraction,1.71,03/10/12
+50,5u6a,Fab Memab trastuzumab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Azido PEG4 meditope (Peptide); Immunoglobulin G-binding protein A (P02976) (Protein); Protein L (Protein),X-ray diffraction,1.74,14/03/18
+46,5u3d,Fab Memab trastuzumab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Immunoglobulin G-binding protein A (P02976) (Protein); Protein L (Protein),X-ray diffraction,1.77,14/03/18
+34,4xmp,Fab VRC08,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp160 (Protein),X-ray diffraction,1.78,29/04/15
+54,5xku,"HNIgGA6 mAb, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin(HA) globular head from Influenza A (H7N9) virus (Protein),X-ray diffraction,1.78,29/11/17
+18,3p0y,Fab DL11,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Epidermal Growth Factor Receptor (EGFR) (Protein),X-ray diffraction,1.8,21/03/12
+21,3u2s,"PG9 mAb, anti-gp120 V1-V2 glycon specific [HIV-1], broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Envelope glycoprotein gp120 (Protein),X-ray diffraction,1.8,21/12/11
+23,4dtg,"Humanized recombinant FAB fragment, FAB 2021, of a murine antibody",Homo sapiens,PDB,FAB-GAMMA-4_KAPPA,Tissue factor pathway inhibitor (TFPI) (Protein),X-ray diffraction,1.8,25/07/12
+30,4m62,GEP 2,Homo sapiens,PDB,FV-HEAVY_KAPPA,T117 (Protein),X-ray diffraction,1.8,08/10/14
+37,4ydl,"C38-VRC18.02 mAb, anti-gp120 [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp160 (Protein),,1.8,03/06/15
+41,5hi4,CAT-2000 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,IL-17A peptide inhibitor (Peptide); Interleukin-17A (Protein),X-ray diffraction,1.8,31/08/16
+42,5hi5,CAT-2000 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,IL-17A inhibitor (Peptide); Interleukin-17A (Protein),X-ray diffraction,1.8,31/08/16
+70,6wzk,Fab LY3041658,Homo sapiens,PDB,FAB-GAMMA-4_KAPPA,C-X-C motif chemokine 2 (Pr35-107) (Q0EAC2) (Protein),X-ray diffraction,1.8,25/11/20
+48,5u5f,Fab Memab trastuzumab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,5-Diphenyl meditope (Peptide); Immunoglobulin G-binding protein A (P02976) (Protein); Protien L (Protein),X-ray diffraction,1.81,14/03/18
+16,3mxw,5E1 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Sonic hedgehog protein SHH (Protein),X-ray diffraction,1.83,13/07/11
+2,1jps,D3H44,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Tissue Factor (Protein),X-ray diffraction,1.85,24/02/09
+25,4h8w,"CD4; N5-i5 Fab, anti-HIV-1 non-neutralizing",Homo sapiens,PDB,1V-1C-LIKE; FAB-GAMMA-1_LAMBDA,Envelope glycoprotein gp120 HIV-1 CLADE A/E 93TH057 (H375S) (Protein),X-ray diffraction,1.85,09/04/14
+45,5nuz,Fab eOD01,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Pre-glycoprotein polyprotein GP complex (C1K9J9) (Protein),X-ray diffraction,1.85,28/06/17
+56,6d0x,Fab 2140,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Circumsporozoite protein NANP3 (Protein),X-ray diffraction,1.85,13/06/18
+61,6kyz,"Fab YDF, anti-HRV14",Homo sapiens,PDB,FV-HEAVY_LAMBDA,Genome polyprotein (Pr1538-1719) (P03303) EC:3.4.22.29 (Protein),X-ray diffraction,1.85,27/05/20
+69,6w00,"Fab 239, anti-NANP",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Immunoglobulin G-binding protein G (Pr440-497)(P19909) (Protein); NPNA2(Pr278-285)(P02893) (Peptide),X-ray diffraction,1.85,29/07/20
+40,5f9o,"CH235.9 mAb, [HIV-1], broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,clade A/E 93TH057 HIV-1 envelope glycoprotein gp120 (Protein),,1.86,16/03/16
+49,5u5m,Fab Memab trastuzumab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Azido PEG4 meditope (Peptide); Immunoglobulin G-binding protein A (P02976) (Protein); Protein L (Protein),X-ray diffraction,1.88,14/03/18
+14,3h0t,Antibody Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hepcidin (residues 60-84) (Protein),X-ray diffraction,1.89,13/10/09
+10,2vxq,IgE Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,PHLPII (Pollen allergen Phl p 2) (P43214) (Protein),X-ray diffraction,1.9,13/07/11
+12,2xwt,"Fab K1-70, monoclonal autoantibody",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,TSH-R Thyrotropin receptor (Protein),X-ray diffraction,1.9,09/03/11
+13,2yc1,"9004G, anti-Cn2 toxin",Homo sapiens,PDB,SCFV-HEAVY-KAPPA,Beta-mammal toxin Cn2 (P01495) (Protein),X-ray diffraction,1.9,15/06/11
+15,3l5x,Anti-human IL-13 antibody H2L6 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Interleukin-13 (P35225) (Protein),X-ray diffraction,1.9,28/04/10
+19,3se8,VRC03 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"HIV-1 Clade AE strain 93TH057, envelope glycoprotein gp120 (Protein)",X-ray diffraction,1.9,15/08/12
+20,3sob,Antibody Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Low-density lipoprotein receptor-related protein 6 (O75581) (Protein),X-ray diffraction,1.9,21/09/11
+27,4i77,lebrikizumab Fab; ,Homo sapiens,PDB,FAB-GAMMA-4_KAPPA,Interleukin-13 (Protein),X-ray diffraction,1.9,06/02/13
+39,5e8e,IgA Fab,Homo sapiens,PDB,FAB-ALPHA-1_KAPPA,Thrombin (Protein),X-ray diffraction,1.9,28/10/15
+52,5w0d,Fab K03.12 UCA,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin HA1 (Protein),X-ray diffraction,1.9,14/02/18
+53,5wk3,Fab M116,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Chemokine CCL17 (Peptide); Chemokine CCL17 (Protein),X-ray diffraction,1.9,20/12/17
+59,6glw,Fab 4E8,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Galectin-10 (Q05315) 38-179 (Protein),X-ray diffraction,1.9,05/06/19
+64,6qb3,"scFv 55, anti-Mcl-1",Homo sapiens,PDB,SCFV-HEAVY-LAMBDA,"MCL1, Induced myeloid leukemia cell differentiation protein Mcl-1 (Pr 174-327)(Q07820) (Protein)",X-ray diffraction,1.9,06/11/19
+66,6uyd,"Fab AR3C, anti-HCV, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein E2 (Pr412-588)(P27958) (Protein),X-ray diffraction,1.9,22/04/20
+58,6gku,Fab 6F5,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Galectin-10 (Q05315) 39-180 (Protein),X-ray diffraction,1.91,05/06/19
+33,4tsc,Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Lysozyme C [hen egg white] (HEL) (Protein),X-ray diffraction,1.92,08/07/15
+47,5u52,Fc IgG1,Homo sapiens,PDB,CH2-CH3,Immunoglobulin G-binding protein A (Protein),X-ray diffraction,1.94,24/05/17
+28,4ioi,Engineered-12AA-trastuzumab Fab; ,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,cQFD meditope (Peptide); Immunoglobulin G-binding protein A (Protein); Protein L (Protein),X-ray diffraction,1.95,09/10/13
+32,4tsb,Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Lysozyme C [hen egg white] (HEL) (Protein),X-ray diffraction,1.95,08/07/15
+38,5bjz,Allosteric synthetic antibody,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Maltose-binding periplasmic protein (Protein),X-ray diffraction,1.95,17/01/18
+55,6b0s,Fab 1710,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Circumsporozoite protein (Protein),X-ray diffraction,1.95,08/11/17
+57,6dkj,Antibody Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"GIPR, Gastric inhibitory polypeptide receptor (Pr21-138)(P48546) (Protein)",X-ray diffraction,1.95,08/05/19
+43,5n7w,Antibody Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_V-KAPPA-C-LAMBDA,Interleukin-17A (Protein),X-ray diffraction,1.96,14/11/18
+65,6qfc,"scFv 55, anti-Mcl-1",Homo sapiens,PDB,SCFV-HEAVY-LAMBDA,"MCL1, Induced myeloid leukemia cell differentiation protein Mcl-1 (Pr 174-327)(Q07820) (Protein)",X-ray diffraction,1.96,06/11/19
+51,5umn,"Fab C05, broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin (Protein),X-ray diffraction,1.97,24/05/17
+5,2ny1,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,1.99,13/07/11
+1,1iqd,BO2C11,Homo sapiens,PDB,FAB-GAMMA-4_KAPPA,Factor VIII C2 domain [Human] (Protein),X-ray diffraction,2,24/02/09
+3,2cmr,"D5 mAb, anti-gp41 [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-3_KAPPA,Envelope glycoprotein gp160 (P04578) (Protein),X-ray diffraction,2,24/02/09
+4,2nxy,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2,13/07/11
+6,2ny2,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2,13/07/11
+7,2ny3,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2,13/07/11
+8,2ny4,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2,13/07/11
+9,2uzi,Anti-RAS Fv,Homo sapiens,PDB,FV-HEAVY_KAPPA,"GTP-bound HRAS (GTPase Hras, p21 ras, H-Ras-1, c-H-ras) (P01112) (Protein)",X-ray diffraction,2,24/02/09
+11,2vyr,Single VH domain,Homo sapiens,PDB,(VH),MDM4 protein (Protein),X-ray diffraction,2,10/02/09
+22,3ujj,"4025 mAb, anti-gp120 [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Enveloppe glycoprotein gp120 (Protein),X-ray diffraction,2,11/01/12
+26,4hjg,Engineered-12AA-trastuzumab Fab; ,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Immunoglobulin G-binding protein A (Protein); Protein L (Protein),X-ray diffraction,2,09/10/13
+35,4xnq,H5.3 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Influenza H5 HA head domain VietNam rdt mutations (Protein),X-ray diffraction,2,15/07/15
+60,6iea,"mAb R13, neutralizing antibody",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,"RVFV Gn, Rift Valley fever virus (Pr154-469) (P03518) (Protein)",X-ray diffraction,2,10/04/19
+63,6phb,Fab 2586,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,25 kDa ookinete surface antigen 5-175 (Pr22-193) (P13829) (Protein),X-ray diffraction,2,02/10/19
+68,6vy4,"mAb HENV-26, Anti-Hendra receptor, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hendra receptor (Pr185-604) F4YH71 (Hendra henipavirus) (Protein),X-ray diffraction,2,30/12/20
+158,4g6j,canakinumab Fab; ,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Interleukin-1 Beta (Protein),X-ray diffraction,2.03,19/12/12
+93,2nxz,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.04,13/07/11
+132,3pnw,FAB-GAMMA-1_KAPPA,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Tudor domain-containing protein 3 (Protein),X-ray diffraction,2.05,25/09/13
+205,4xtr,Antibody,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,ATPase GET3 (Protein); Pep12p (Protein),X-ray diffraction,2.05,18/03/15
+267,5y9j,Fab belimumab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Tumor necrosis factor ligand superfamily member 13B (Protein),X-ray diffraction,2.05,21/02/18
+352,6uyf,"Fab AR3C, anti-HCV, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein E2 (Pr412-588)(B9V0E2 ) (Protein),X-ray diffraction,2.06,22/04/20
+285,6dfj,"Fab Z021, anti-Zika",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Dengue 1 (DENV-1) Envelope DIII (Pr297-396) (Protein),X-ray diffraction,2.07,24/10/18
+164,4hkz,trastuzumab FAb; ,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Immunoglobulin G-binding protein A (Protein); Protein L (Protein),X-ray diffraction,2.08,09/10/13
+269,5zv3,Fab CBTAU-28.1,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Tau (Protein),X-ray diffraction,2.09,20/06/18
+366,6wfw,"Fab 364, anti-NPNA2",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Immunoglobulin G-binding protein G (Pr439-497)(P19909) (Protein); NPNA2(Pr278-285)(P02893) (Peptide),X-ray diffraction,2.09,29/07/20
+83,1tjh,"2F5 mAb, anti-gp41 membrane-proximal external region (MPER) N-terminal region [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp41 (Protein),X-ray diffraction,2.1,24/02/09
+85,1uj3,HATR-5,Homo sapiens,PDB,FAB-GAMMA-4_KAPPA,Tissue Factor (Protein),X-ray diffraction,2.1,24/02/09
+131,3pgf,Synthetic antigen binder (sAB),Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Maltose-binding periplasmic protein (P0AEX9), R367>N (Protein)",X-ray diffraction,2.1,20/04/11
+139,3thm,Fab EP6b_B01,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Tumor necrosis factor receptor superfamily member 6 (Protein),X-ray diffraction,2.1,27/06/12
+145,3x3f,KMTR2 Fab,Homo sapiens,PDB,FAB-GAMMA-4_KAPPA,TNFRSF10B (Tumor necrosis factor receptor superfamily member 10B) (Protein),X-ray diffraction,2.1,23/12/15
+188,4ogy,DX-2930,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Plasma kallikrein (Protein),X-ray diffraction,2.1,09/07/14
+221,5czx,20358 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Notch3 (Neurogenic locus notch homolog protein 3) (Protein),X-ray diffraction,2.1,01/06/16
+266,5y11,"MAb4-5, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Membrane glycoprotein polyprotein (Protein),X-ray diffraction,2.1,13/09/17
+273,6ayz,Fab 12E,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Histone chaperone ASF1 (Protein),X-ray diffraction,2.1,17/01/18
+389,7dm1,"Fab p4-36, anti-pstS1",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Phosphate-binding protein PstS 1 (Pr25-374) P9WGU1 (Protein),X-ray diffraction,2.1,23/12/20
+189,4ot1,SM5-1 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Envelope glycoprotein B (Protein),X-ray diffraction,2.11,13/08/14
+217,5b71,Fab SKY59,Homo sapiens,PDB,FAB-GAMMA-3_KAPPA,Complement C5 beta chain (Protein),X-ray diffraction,2.11,03/05/17
+200,4uu9,MEDI7814,Homo sapiens,PDB,FV-HEAVY_LAMBDA,Complement c5 (Protein),X-ray diffraction,2.12,12/08/15
+359,6vbq,"Fab DH813, anti-HIV-1",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Envelope glycoprotein gp160(171-192)(I2E6B7) (Protein),X-ray diffraction,2.12,12/02/20
+133,3q1s,"Z13e1 Fab, anti-gp41 [HIV-1]",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Interleukin-22 (Protein),X-ray diffraction,2.15,11/01/12
+176,4lsp,"VRC-CH31 mAb, anti-gp120 [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,HIV-1 CLADE A/E STRAIN 93TH057 GP120 (Protein),X-ray diffraction,2.15,04/09/13
+198,4ttd,Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Lysozyme C [hen egg white] (HEL) (Protein),X-ray diffraction,2.15,08/07/15
+233,5hi3,CAT-2000 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,IL-17A peptide inhibitor (Peptide); Interleukin-17A (Protein),X-ray diffraction,2.15,31/08/16
+247,5o4e,Fc Janus448; Fc JanusCT6,Homo sapiens,PDB,CH2-CH3,VEGF( Vascular endothelial growth factor A) (Protein),X-ray diffraction,2.15,30/08/17
+252,5te7,"Fab N6, broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,HIV-1 gp120 core (Protein),X-ray diffraction,2.15,16/11/16
+300,6j6y,Antibody Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,"FGFR4, Fibroblast growth factor receptor 4 (Pr141-244) (P22455) (Protein)",X-ray diffraction,2.15,07/08/19
+235,5ies,"VRC01c-HuGL2 mAb, anti-gp120 [HIV-1], broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Germline-targeting HIV-1 gp120 engineered outer domain eOD-GT8 (Protein),,2.16,06/04/16
+122,3l95,Anti-NRR1 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Negative regulatory region (NRR1) of Neurogenic locus notch homolog protein 1 (Protein),X-ray diffraction,2.19,13/07/11
+141,3u4e,"PG9 mAb, anti-gp120 V1-V2 glycon specific [HIV-1], broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,V1V2 region of HIV-1 on 1FD6 scaffold (Protein),X-ray diffraction,2.19,21/12/11
+74,1g9m,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.2,27/12/00
+78,1nl0,Anti-factor IX antibody 10C12 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Factor IX Gla domain (Protein),X-ray diffraction,2.2,24/02/09
+81,1rzj,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.2,13/07/11
+87,1yym,"17B mAb, anti-gp120 [HIV-1]; F23, scorpion toxin mimic of CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Envelope glycoprotein gp120 (Protein); F23, scorpion toxin mimic of CD4 (Protein)",X-ray diffraction,2.2,13/07/11
+90,2i5y,"17B mAb, anti-gp120 [HIV-1]; CD4M47, scorpion toxic mimic of CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"CD4M47, scorpion toxic mimic of CD4 (Protein); Envelope glycoprotein gp120 (Protein)",X-ray diffraction,2.2,06/06/12
+94,2ny0,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.2,13/07/11
+98,2qqn,Semaphorin-Blocking Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Neuropilin-1 (a1a2b1b2) (Protein),X-ray diffraction,2.2,13/07/11
+116,3gbn,Fab CR6261,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin HA1 peptide (Q9WFX3) (Protein),X-ray diffraction,2.2,13/07/11
+120,3kr3,"DX-2647 mAb, anti-IGF-II",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Insulin-like growth factor II (IGF2) (Protein),X-ray diffraction,2.2,07/07/10
+194,4qhu,Fab6785,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,IL-17A (Interleukin-17A) (Protein),X-ray diffraction,2.2,05/08/15
+220,5bvp,canakinumab Fab; ,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,IL-1beta (Interleukin-1 beta) (Protein),X-ray diffraction,2.2,02/09/15
+231,5hhv,CAT-2000 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,IL-17A peptide inhibitor (Peptide); Interleukin-17A (Protein),X-ray diffraction,2.2,01/06/16
+246,5o14,Fab 1A12,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Factor H-binding protein (fHbp) (Protein),X-ray diffraction,2.2,14/02/18
+347,6urh,"Fab AR3X, anti-HCV, broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,HCV envelope glycoprotein E2 (Pr214-475)( A0A2P0NE26) (Protein),X-ray diffraction,2.2,18/03/20
+379,6xxv,"Fab C57, anti-RSV, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Immunogen S2 1.2 (Protein),X-ray diffraction,2.2,22/04/20
+384,6z7y,"Fab OXI-005, Insulin analytical antibody",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Insulin (Pr25-54) P01315 (Protein); Insulin (Pr88-108) P01315 (Protein),,2.2,30/12/20
+181,4n1e,V-KAPPA,Homo sapiens,PDB,(V-KAPPA),Lysozyme C (Protein),X-ray diffraction,2.23,29/10/14
+225,5f96,"CH235.12 mAb, [HIV-1], broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,clade A/E 93TH057 HIV-1 envelope glycoprotein gp120 (Protein),,2.24,09/03/16
+178,4m5z,5J8 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin HA1 chain (Protein),X-ray diffraction,2.25,25/09/13
+262,5w2b,Antibody Fab Fragment,Homo sapiens,PDB,(VH-CH1)_L-KAPPA,C-terminal domain of Ebola (Reston) nucleoprotein (Protein),X-ray diffraction,2.25,13/06/18
+290,6fs0,Fab AZD5991,Homo sapiens,PDB,FAB-GAMMA-2_LAMBDA,MCL-1 (Induced myeloid leukemia cell differentiation) (Protein),X-ray diffraction,2.25,26/12/18
+360,6vc9,"Fab TB19, anti-CD73",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Ecto-5'-nucleotidase (Pr79-549)Q53Z63 EC:3.1.3.5 (Protein),X-ray diffraction,2.25,11/11/20
+197,4tsa,Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Lysozyme C [hen egg white] (HEL) (Protein),X-ray diffraction,2.27,08/07/15
+214,4zfg,5A12 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Angiopoietin-2 (Protein),X-ray diffraction,2.27,01/07/15
+147,4d9q,Anti-Factor D,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Factor D (Protein),X-ray diffraction,2.28,02/05/12
+215,4znc,Fc-gamma3 (IGHG3),Homo sapiens,PDB,FC-GAMMA-3,Immunoglobulin G-binding protein A mutant Q9W (Protein),X-ray diffraction,2.28,15/07/15
+374,6wzm,Fab LY3041658 ,Homo sapiens,PDB,FAB-GAMMA-4_KAPPA,C-X-C motif chemokine 2 (Pr35-107) (Q0EAC2) (Protein),X-ray diffraction,2.28,25/11/20
+373,6wzl,Fab LY3041658 ,Homo sapiens,PDB,FAB-GAMMA-4_KAPPA,C-X-C motif chemokine 2 (Pr35-107) (Q0EAC2) (Protein),X-ray diffraction,2.29,25/11/20
+79,1oqo,Fc-gamma1 (IGHG1),Homo sapiens,PDB,FC-GAMMA-1,Protein A minimized version Z34C (Protein),,2.3,20/03/03
+105,2xra,"Fab HK20 mAb, anti-gp41 [HIV-1]",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Transmembrane protein gp41 (Protein),X-ray diffraction,2.3,28/12/11
+193,4qci,anti-PDGF-BB antibody,Homo sapiens,PDB,FAB-GAMMA-4_LAMBDA,Platelet-derived growth factor subunit B (Protein),X-ray diffraction,2.3,11/03/15
+237,5j13,"Antibody Fab Fragment, anti-TSLP",Homo sapiens,PDB,FAB-GAMMA-2_LAMBDA,Thymic stromal lymphopoietin (Protein),X-ray diffraction,2.3,05/04/17
+331,6plk,"mAb 116, anti-Zika virus (ZIKV) DIII lateral ridge envelope polyprotein, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Genome polyprotein (isolate ZIKV/Human/French Polynesia/10087PF/2013) (Pr589-697) (A0A024B7W1) (Protein),X-ray diffraction,2.3,20/11/19
+332,6pze,"Fab NA-45, anti-N9",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Neuraminidase 6-393(Pr78-465) (V9NZ28) EC:3.2.1.18 mutant Y169aH (Protein),X-ray diffraction,2.3,04/12/19
+358,6vbp,"Fab DH813, anti-HIV-1",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp160(171-192)(I2E6B7) (Protein),X-ray diffraction,2.3,12/02/20
+201,4wwi,Fc-gamma3 (IGHG3),Homo sapiens,PDB,FC-GAMMA-3,Immunoglobulin G-binding protein A (Protein),X-ray diffraction,2.31,15/07/15
+208,4ydj,"44-VRC13.01 mAb, anti-gp120 [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Envelope glycoprotein gp160 (Protein),X-ray diffraction,2.31,03/06/15
+89,2h9g,BdF1 Fab and DR5 death receptor 5,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Tumor necrosis factor receptor superfamily member 10B precursor (Protein),X-ray diffraction,2.32,13/07/11
+302,6jep,"Fab ZK2B10, neutralizing antibody",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Zika envelope protein domain III (A0A2Z2ESG6) (Protein),X-ray diffraction,2.32,15/05/19
+309,6mft,Fab VRC01 Germline,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.32,14/11/18
+270,6a67,Fab FLD21.140,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin (Protein),X-ray diffraction,2.33,29/08/18
+297,6iuv,Fab 3C11,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin (Q77XR4) (Protein),X-ray diffraction,2.33,16/01/19
+257,5veb,"Antibody Fab Fragment, anti-CDH6",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Cadherin-6 (P55285) (Protein),X-ray diffraction,2.34,07/06/17
+313,6mtj,Fab 3H109L; scFv 35O22,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA; FV-HEAVY_LAMBDA,Envelope glycoprotein gp160 (Protein),X-ray diffraction,2.34,16/01/19
+92,2iwg,Fc-gamma1 (IGHG1),Homo sapiens,PDB,FC-GAMMA-1,"TRIM21 Pryspry domain (287..465, P19474) (Protein)",X-ray diffraction,2.35,27/03/07
+206,4xvu,Antibody,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,ATPase GET3 (Protein); Nyv1 TMD (Protein),X-ray diffraction,2.35,18/03/15
+249,5otj,Fab 102.1F10,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Polcalcin Phl p 7 (Protein),X-ray diffraction,2.35,05/09/18
+370,6wo4,"Fab HC11, anti-HCV E2, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein E2 (Pr412-600)(B9V0E2) EC: 2.7.7.48 Recombinant Hepatitis C virus HK6a/JFH-1 (Protein),X-ray diffraction,2.35,19/08/20
+372,6wzj,Fab LY3041658,Homo sapiens,PDB,FAB-GAMMA-4_KAPPA,C-X-C motif chemokine 2 (Pr35-107) (Q0EAC2) (Protein),X-ray diffraction,2.37,25/11/20
+336,6qb4,"scFv 55, anti-Mcl-1",Homo sapiens,PDB,SCFV-HEAVY-LAMBDA,"MCL1, Induced myeloid leukemia cell differentiation protein Mcl-1 (Pr 174-327)(Q07820) (Protein)",X-ray diffraction,2.38,06/11/19
+369,6wo3,"Fab U1, anti-HCV E2, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein E2 (Pr412-600)(B9V0E2) EC: 2.7.7.48 Recombinant Hepatitis C virus HK6a/JFH-1 (Protein),X-ray diffraction,2.38,19/08/20
+91,2i60,"17B mAb, anti-gp120 [HIV-1]; (Phe23)M47, scorpion toxin mimic of CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"(Phe23)M47, scorpion toxin mimic of CD4 (Protein); Envelope glycoprotein gp120 (Protein)",X-ray diffraction,2.4,06/06/12
+169,4k94,19 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Mast/stem cell growth factor receptor Kit (Protein),X-ray diffraction,2.4,16/10/13
+272,6ani,Fab Coltuximab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"VHH, anti-kappa (Protein)",X-ray diffraction,2.4,31/01/18
+274,6azz,Fab 1190,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Pfs25 (Protein),X-ray diffraction,2.4,08/11/17
+298,6ivz,scFv 5A,Homo sapiens,PDB,SCFV-HEAVY-KAPPA,"Envelope protein, Yellow fever virus (Q89292) (Protein)",X-ray diffraction,2.4,13/02/19
+303,6kz0,"Fab GGVV, anti-HRV14",Homo sapiens,PDB,FV-HEAVY_KAPPA,Genome polyprotein (Pr1538-1719) (P03303) EC:3.4.22.29 (Protein),X-ray diffraction,2.4,27/05/20
+328,6pcu,scFv 9,Homo sapiens,PDB,FV-HEAVY_LAMBDA,capsid protein VP4 (Q2VE61) (Protein),X-ray diffraction,2.4,04/09/19
+363,6vi1,Synthetic Fab 4,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Terminase (Pr1-33)(P26745)EC: 3.1.21.4 (Protein),X-ray diffraction,2.4,02/09/20
+365,6w03,Fab 3H109; scFv 35O22,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA; SCFV-HEAVY-LAMBDA,Envelope glycoprotein gp160 (Pr30-505) (Q2N0S6) (Protein); Envelope glycoprotein gp41 (Pr509-661) (Q2N0S6) (Protein),X-ray diffraction,2.4,15/04/20
+380,6xzw,"Fab 4B3, anti-fHbp",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Lipoprot_C domain 2-249 (Pr73-320) (Q9JXV4) (Protein),X-ray diffraction,2.4,14/10/20
+385,6z7z,"Fab OXI-005, Insulin analytical antibody",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Insulin (Pr25-54) P01315 (Protein); Insulin (Pr88-108) P01315 (Protein),X-ray diffraction,2.4,30/12/20
+390,7joo,"Fab STIM003, anti-ICOS-L; VHH, anti-kappa","Homo sapiens, Lama glama",PDB,FAB-GAMMA-1_KAPPA; VH,ICOS 3-232 (Pr19-248)(O75144) (Protein),X-ray diffraction,2.4,14/10/20
+243,5lbs,Fv EDE1 C8,Homo sapiens,PDB,FV-HEAVY_KAPPA,Envelope protein E (Protein),X-ray diffraction,2.41,06/07/16
+295,6ieb,"mAb R15, neutralizing antibody",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,"RVFV Gn, Rift Valley fever virus (Pr154-469) (P03518) (Protein)",X-ray diffraction,2.41,10/04/19
+148,4d9r,Antibody Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Complement factor D (Protein),X-ray diffraction,2.42,02/05/12
+382,6yla,"Fab CR3022, anti-SARS-CoV-2 S RBD, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Spike (S) glycoprotein (P0DTC2) receptor binding domain (RBD) (Protein),X-ray diffraction,2.42,15/04/20
+140,3u30,FAB-GAMMA-1_KAPPA,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"LINEAR DI-UBIQUITIN (1-152, ubiquitin C (UBC), P0CG48) (Protein)",X-ray diffraction,2.43,18/01/12
+152,4dqo,"PG16 mAb, anti-gp120 V1-V2 glycon specific [HIV-1], broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,1FD6-V1V2 scaffold ZM109 HIV-1 strain (Protein),X-ray diffraction,2.44,06/03/13
+236,5if0,"VRC01c-HuGL2 mAb, anti-gp120 [HIV-1], broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Germline-targeting HIV-1 gp120 engineered outer domain eOD-GT8 (Protein),,2.44,06/04/16
+142,3u7y,"NIH45-46 mAb, anti-gp120 [HIV-1]",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp160 (Protein),X-ray diffraction,2.45,21/12/11
+202,4xak,M336 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Spike glycoprotein (Protein),X-ray diffraction,2.45,26/08/15
+219,5bv7,27C3 Fab; Fab1,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Phosphatidylcholine-sterol acyltransferase (Protein),X-ray diffraction,2.45,16/12/15
+312,6mlk,Fab 3A6,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,6-deoxyerythronolide-B synthase EryA3 4-283 (Pr2943-3172) Q03133 (Protein),X-ray diffraction,2.45,17/10/18
+335,6q20,"Fab 1E01, broadly protective",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Neuraminidase(strain A/Japan/305/1957 H2N2) 5-393 (Pr82-469) (C7RWN0) EC: 3.2.1.18 (Protein),X-ray diffraction,2.45,23/10/19
+325,6o41,PGZL1 IGHV1-69*06 (100%)/ IGKV3-20*01 (98.9%),Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"SPG, (Immunoglobulin G-binding protein G) (Pr339-427) (P19909) (Protein)",X-ray diffraction,2.47,04/12/19
+154,4edw,tanezumab Fab; ,Homo sapiens,PDB,FAB-GAMMA-2_KAPPA,Beta-nerve growth factor (Protein),X-ray diffraction,2.48,02/04/14
+284,6dfi,"Fab Z021, anti-Zika",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Zika Envelope DIII (Protein),X-ray diffraction,2.48,24/10/18
+76,1gc1,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.5,13/07/11
+95,2ny5,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.5,13/07/11
+118,3idx,"b13 mAb, anti-gp120 [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"HIV-1 HxBc2 gp120 core, M95>W, T257>S, S375>W, A443>M, W96>C, V275>C, I109>C, Q428>C (Protein)",X-ray diffraction,2.5,13/07/11
+123,3lev,"2F5 mAb, anti-gp41 membrane-proximal external region (MPER) N-terminal region [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,2F5 epitope scaffold ES2 (HIV-1 gp41 peptide (659-669) grafted on bacterial RNA polymerase sigma sub (Protein),X-ray diffraction,2.5,24/11/10
+127,3mls,"2557 mAb, anti-gp120 [HIV-1] V3",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Envelope glycoprotein gp120 (P12490) (Protein),X-ray diffraction,2.5,18/08/10
+136,3skj,Fab anti-human EphA2,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,EPHA2 (Ephrin type-A receptor 2) E.C: 2.7.10.1 (Protein),X-ray diffraction,2.5,29/08/12
+153,4dvr,"48D mAb, anti-gp120 [HIV-1]",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp160 (Protein),X-ray diffraction,2.5,27/02/13
+157,4fqj,CR8071 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin (Protein),X-ray diffraction,2.5,03/10/12
+159,4g7v,FRAGMENT ANTIBODY,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,VOLTAGE-SENSOR CONTAINING PHOSPHATASE (Protein),X-ray diffraction,2.5,05/02/14
+163,4hkx,CH67 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin HA1 (Protein),X-ray diffraction,2.5,21/11/12
+182,4n9g,17HD9 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Epitope Scaffold rsv_1isea_FFL_001_C (Protein),X-ray diffraction,2.5,12/02/14
+183,4nik,"F5, anti-PSMD10 (gankyrin)",Homo sapiens,PDB,SCFV-HEAVY-LAMBDA,"PSMD10 (proteasome (prosome, macropain) 26S subunit, non-ATPase, 10; 26S proteasome non-ATPase regulatory subunit 10, gankyrin) (O76832) (Protein)",X-ray diffraction,2.5,10/09/14
+251,5sx5,Fab panitumumab,Homo sapiens,PDB,FAB-GAMMA-2_KAPPA,Epidermal Growth Factor Receptor (EGFR) (Protein),X-ray diffraction,2.5,05/10/16
+289,6fgo,IgG1 Fc fragment,Homo sapiens,PDB,CH2-CH3,Z-Ca (Engineered calcium binding domain Z) (Protein),X-ray diffraction,2.5,20/06/18
+305,6lxi,mAb Z2B3,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Neuraminidase (Pr1-469) Q9IGQ6 (Protein),X-ray diffraction,2.5,09/12/20
+314,6mtn,Fab 3H109L; scFv 35O22,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA; FV-HEAVY_LAMBDA,Envelope glycoprotein gp160 (Protein),X-ray diffraction,2.5,16/01/19
+316,6mu7,Fab 3H109L; scFv 35O22,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA; FV-HEAVY_LAMBDA,Envelope glycoprotein gp160 (Protein),X-ray diffraction,2.5,16/01/19
+354,6v4n,"Fab 1G05, broadly protective",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Neuraminidase(Pr62-466) (A0A4P8YQ63) EC: 3.2.1.18 (Protein),electron microscopy,2.5,07/10/20
+203,4xnm,H5.3 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin (Protein),X-ray diffraction,2.51,15/07/15
+107,2ybr,"9004G, anti-Cn2 toxin",Homo sapiens,PDB,SCFV-HEAVY-KAPPA,Beta-mammal toxin Cn2 (P01495) (Protein),X-ray diffraction,2.55,15/06/11
+114,3g04,Thyroid-stimulating human monoclonal autoantibody (M22),Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Thyrotropin receptor (Protein),X-ray diffraction,2.55,13/07/11
+138,3t2n,"Fab hH35 mAb, anti-HPN (hepsin), a type II transmembrane serine protease",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"HPN (hepsin (a type II transmembrane serine protease) extracellular region (46-417, P05981) (Protein)",X-ray diffraction,2.55,25/07/12
+161,4grw,Interleukin-12 subunit beta; Nanobody 124C4; Nanobody 22E11; Nanobody 37D5,"Homo sapiens, Lama glama",PDB,B2M; (VH),Interleukin-23 subunit alpha (Protein),X-ray diffraction,2.55,19/02/14
+278,6bft,Fab Bevacizumab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"VEGF (Vascular endothelial growth factor A), (Pr34-135) P15692 (Protein)",X-ray diffraction,2.55,31/10/18
+315,6mu6,Fab 3H109L; scFv 35O22,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA; FV-HEAVY_LAMBDA,Envelope glycoprotein gp160 (Protein),X-ray diffraction,2.55,16/01/19
+377,6xkq,"Fab CV07-250, anti-SARS-CoV-2, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Spike protein S1 (Pr319-541) P0DTC2 (Protein),X-ray diffraction,2.55,14/10/20
+108,3b2u,"IMC-11F8 Fab, anti-EGFR",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Epidermal Growth Factor Receptor (EGFR) (Protein),X-ray diffraction,2.58,13/07/11
+320,6n81,Fab A1227,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Major capsid protein (Pr222-530 ) (R4I4P2) (Protein),X-ray diffraction,2.58,19/06/19
+340,6tou,"scFv RVC20, anti-RABV, broadly neutralizing",Homo sapiens,PDB,SCFV-HEAVY-KAPPA,"Glycoprotein, rabies lyssavirus (Pr201-281)(Q8JUA9) (Protein)",X-ray diffraction,2.59,12/02/20
+80,1oqx,Fc-gamma1 (IGHG1),Homo sapiens,PDB,FC-GAMMA-1,Protein A minimized version Z34C (Protein),X-ray diffraction,2.6,25/03/03
+104,2xqb,"DISC0280 Fab, anti-IL-15",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Interleukin-15 (Protein),X-ray diffraction,2.6,06/04/11
+109,3bdy,bH1,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,VEGF (Vascular endothelial growth factor A) (34-135) (Protein),X-ray diffraction,2.6,13/07/11
+111,3dvg,K63-specific Fab APU.3A8,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Ubiquitin D77 (Protein); Ubiquitin K63>R (Protein),X-ray diffraction,2.6,13/07/11
+113,3efd,FAB-GAMMA-1_KAPPA,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,KcsA (Protein),X-ray diffraction,2.6,13/07/11
+167,4jqi,Fab30,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Beta-arrestin-1 (Protein); Vasopressin V2 receptor phosphopeptide (Protein),X-ray diffraction,2.6,23/10/13
+191,4pgj,Human heavy chain domain antibody,Homo sapiens,PDB,(VH),Lysozyme C [hen egg white] (HEL) EC:3.2.1.17 (Protein),X-ray diffraction,2.6,11/03/15
+218,5bk2,Peristeric synthetic antibody,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Maltose-binding periplasmic protein (Protein),X-ray diffraction,2.6,17/01/18
+261,5w08,Fab K03.12,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin HA1 (Protein),X-ray diffraction,2.6,14/02/18
+277,6bfq,Antibody Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Granulocyte-macrophage colony-stimulating factor (Protein),X-ray diffraction,2.6,12/09/18
+280,6bkc,"Fab AR3A, broadly neutralizing antibody",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope Glycoprotein E2 (Protein),X-ray diffraction,2.6,26/12/18
+323,6nnj,Fab 3H109L; scFv 35O22; scFv VRC01 FR3-03,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA; FV-HEAVY_LAMBDA; FV-HEAVY_KAPPA,Envelope glycoprotein gp120 (Protein); Envelope glycoprotein gp41 (Protein),X-ray diffraction,2.6,27/02/19
+119,3jwd,"48D mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.61,13/07/11
+150,4dkf,FAb2,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Interleukin-34 (Protein),X-ray diffraction,2.61,25/04/12
+165,4hwb,FAB-GAMMA-1_KAPPA,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,INTERLEUKIN-13 RECEPTOR SUBUNIT ALPHA-1 (Protein),X-ray diffraction,2.61,27/02/13
+245,5lsp,Fab 107_A07,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hepatocyte growth factor receptor (Peptide); Hepatocyte growth factor receptor (Protein),X-ray diffraction,2.61,13/09/17
+343,6u8c,Antibody Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"GGA1, golgi associated, gamma adaptin ear containing, ARF binding protein 1 (Protein)",X-ray diffraction,2.61,23/10/19
+371,6wo5,"Fab 212.1.1; Fab E1, anti-HCV E2, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein E2 (Pr412-600)(B9V0E2) EC: 2.7.7.48 Recombinant Hepatitis C virus HK6a/JFH-1 (Protein),X-ray diffraction,2.62,19/08/20
+101,2vxs,Antibody Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Interleukin-17A (Protein),X-ray diffraction,2.63,13/07/11
+155,4ers,FAB-GAMMA-1_KAPPA,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,GLUCAGON RECEPTOR (Protein),X-ray diffraction,2.64,17/10/12
+174,4leo,Fab RG7116,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Receptor tyrosine-protein kinase erbB-3 (Protein),,2.64,10/07/13
+186,4nqs,Fc-gamma1 (IGHG1),Homo sapiens,PDB,FC-GAMMA-1,miniZ (Protein),X-ray diffraction,2.64,12/03/14
+224,5eu7,Antibody Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Integrase (Protein),X-ray diffraction,2.64,28/09/16
+244,5lcv,Fab EDE2 A11,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Polyprotein (Protein),X-ray diffraction,2.64,06/07/16
+124,3lh2,"4E10 (H)W104>A mAb, anti-gp41 membrane-proximal external region (MPER) [HIV-1], neutralizing",Homo sapiens,PDB,FV-HEAVY_KAPPA,T88 (4E10_1VI7A_S0_002_N) (Protein),X-ray diffraction,2.65,22/09/10
+180,4mwf,AR3C mAb,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein E2 (Protein),X-ray diffraction,2.65,11/12/13
+293,6h2y,Fab 1E6,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Lipoprotein 12-263 (Pr32-281 ) (Q19KF7) (Protein),X-ray diffraction,2.65,14/08/19
+348,6urm,"Fab LPAF-a.01, anti-CA09, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin (Pr18-520)(C3W5S1) (Protein),X-ray diffraction,2.65,16/09/20
+361,6vel,"Fab 66E8, anti-CDH1",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Cadherin-1 (Pr155-371) (P12830) (Protein),X-ray diffraction,2.65,29/01/20
+386,6zcz,"Fab EY6A, anti-SARS-CoV-2 S RBD, neutralizing; nAb","Homo sapiens, Lama glama",PDB,FAB-GAMMA-1_KAPPA; VH,Spike (S) glycoprotein (P0DTC2) receptor binding domain (RBD) (Protein),X-ray diffraction,2.65,24/06/20
+282,6cw2,Antibody Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Histone acetyltransferase GCN5 (Protein); Transcriptional adapter 2 (Protein),X-ray diffraction,2.67,19/09/18
+368,6wix,Fab 3H109L; scFv 35O22 ,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA; FV-HEAVY_LAMBDA,Envelope glycoprotein gp120 (Protein); Envelope glycoprotein gp41 (Protein),X-ray diffraction,2.67,09/12/20
+129,3ngb,"VRC01 mAb, anti-gp120 CD4-binding site (CD4bs) [HIV-1], broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Envelope glycoprotein gp160 (Q0ED31) (residues 43-122, 201-303, 325-486) (Protein)",X-ray diffraction,2.68,01/09/10
+184,4nnp,antagonistic fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Lipoprotein (Protein),X-ray diffraction,2.69,10/12/14
+72,1dee,IgmRf2A2,Homo sapiens,PDB,FAB-MU_KAPPA,Immunoglobulin G-binding protein A (P02976) (Protein),X-ray diffraction,2.7,24/02/09
+77,1hez,Fab 2A2,Homo sapiens,PDB,FAB-MU_KAPPA,Protein L (PpL) (Protein),X-ray diffraction,2.7,24/02/09
+100,2vh5,Anti-RAS Fv,Homo sapiens,PDB,FV-HEAVY_KAPPA,"GTP-bound HRAS (GTPase Hras, p21 ras, H-Ras-1, c-H-ras) (P01112) (Protein)",X-ray diffraction,2.7,24/02/09
+103,2wuc,Fab 40.DELTATRP,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hepatocyte growth factor activator EC: 3.4.21.- (Protein); Hepatocyte growth factor activator EC: 3.4.21.- (Peptide); Peptide (Peptide),X-ray diffraction,2.7,06/06/12
+106,2xtj,Fab 1D05,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Proprotein convertase subtilisin/kexin type 9 (PCSK9), residues 153-451 (Q8NBP7) (Protein); Proprotein convertase subtilisin/kexin type 9 (PCSK9), residues 53-152 (Q8NBP7) (Protein)",X-ray diffraction,2.7,22/12/10
+112,3dvn,K63-specific Fab Apu2.16,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Ubiquitin D77 (Protein); Ubiquitin K63>R (Protein),X-ray diffraction,2.7,13/07/11
+115,3gbm,Fab CR6261,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin HA1 peptide (Q6DQ33) (Protein),X-ray diffraction,2.7,13/07/11
+117,3h3p,"4E10 (H)W104>A mAb, anti-gp41 membrane-proximal external region (MPER) [HIV-1], neutralizing",Homo sapiens,PDB,FV-HEAVY_KAPPA,4E10_S0_1TJLC_004_N (Protein),X-ray diffraction,2.7,13/07/11
+125,3lhp,"4E10 (H)W104>A mAb, anti-gp41 membrane-proximal external region (MPER) [HIV-1], neutralizing",Homo sapiens,PDB,FV-HEAVY_KAPPA,T93 epitope scaffold immunogen (4E10_D0_1ISEA_004_N) (Protein),X-ray diffraction,2.7,22/09/10
+130,3nh7,Fab ABD1556,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,BMPR-1A (Bone morphogenetic protein receptor type-1A) (Protein),X-ray diffraction,2.7,27/10/10
+137,3sqo,J16 Fab,Homo sapiens,PDB,FAB-GAMMA-2_KAPPA,Proprotein convertase subtilisin/kexin type 9 (PCSK9) (Protein),X-ray diffraction,2.7,16/05/12
+227,5fv1,V-KAPPA,Homo sapiens,PDB,(V-KAPPA),VEGFA (Vascular Endothelial Growth Factor A) (Protein),X-ray diffraction,2.7,17/02/16
+265,5wi9,Fab 39F7,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Beta-klotho (Protein),X-ray diffraction,2.7,25/07/18
+275,6b0h,Fab 1262,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Pfs25 (Protein),X-ray diffraction,2.7,15/11/17
+296,6iek,"Fab R12, neutralizing antibody",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,"RVFV Gn, Rift Valley fever virus (Pr154-469) (P03518) (Protein)",X-ray diffraction,2.7,10/04/19
+341,6u36,Antibody Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"PCSK9, proprotein convertase subtilisin/kexin type 9 (Q8NBP7) EC: 3.4.21.- (Protein)",X-ray diffraction,2.7,06/11/19
+345,6umg,"mAb Erenumab, anti-GPCR",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,"Calcitonin gene-related peptide type 1 receptor, CGRPR (Pr23-133)(Q16602) (Protein)",X-ray diffraction,2.7,12/02/20
+350,6uuh,"Fab B11, anti-HIV-1, broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Immunoglobulin G-binding protein G (Pr437-497)( P19909) (Protein),X-ray diffraction,2.7,23/09/20
+281,6ck9,Fab 3H109L; scFv 35O22,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA; FV-HEAVY_LAMBDA,Envelope glycoprotein gp160 (Protein),X-ray diffraction,2.71,25/04/18
+383,6z2m,"Fab CR3022, anti-SARS-CoV-2 S RBD, neutralizing; VHH H11-D",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; VH,Spike (S) glycoprotein (P0DTC2) receptor binding domain (RBD) (Protein),,2.71,03/06/20
+209,4ye4,"HJ16 mAb, anti-gp120 [HIV-1], neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,HT593.1 envelope glycoprotein gp120 (Protein),X-ray diffraction,2.72,22/07/15
+210,4yjz,scFv H2526,Homo sapiens,PDB,SCFV-LAMBDA-HEAVY,Hemagglutinin (Protein),X-ray diffraction,2.72,27/05/15
+364,6vzi,Fab 3H109; scFv 35O22,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA; SCFV-HEAVY-LAMBDA,Envelope glycoprotein gp120 (Pr29-493)(A0A0N9FF17) (Protein); Envelope glycoprotein gp41 (Pr504-657)(W6ICH7) (Protein),X-ray diffraction,2.72,15/04/20
+376,6xkp,"Fab CV07-270, anti-SARS-CoV-2, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Spike protein S1 (Pr319-541) P0DTC2 (Protein),X-ray diffraction,2.72,14/10/20
+342,6u38,Antibody Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"PCSK9, proprotein convertase subtilisin/kexin type 9 (Q8NBP7) EC: 3.4.21.- (Protein) (Protein)",X-ray diffraction,2.73,06/11/19
+204,4xrc,H5.3 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin (Protein),X-ray diffraction,2.74,15/07/15
+321,6nm6,Fab 3H109L; scFv 35O22; scFv N6 FR3-03,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA; FV-HEAVY_LAMBDA; FV-HEAVY_KAPPA,Envelope glycoprotein gp120 (Protein); Envelope glycoprotein gp41 (Protein),electron microscopy,2.74,27/02/19
+86,1yyl,"17B mAb, anti-gp120 [HIV-1]; CD4M33, scorpion toxin mimic of CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"CD4M33, scorpion toxin mimic of CD4 (Protein); Envelope glycoprotein gp120 (Protein)",X-ray diffraction,2.75,13/07/11
+97,2qqk,Semaphorin-Blocking Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Neuropilin-2 (a1a2b1b2) (Protein),X-ray diffraction,2.75,13/07/11
+187,4o58,F045-092 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin HA1 (Protein); Hemagglutinin HA2 (Protein),X-ray diffraction,2.75,16/04/14
+207,4xwo,Antibody,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,ATPase GET3 (Protein); Sec22 (Protein),X-ray diffraction,2.75,25/03/15
+213,4zff,5A12 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,VEGF (Vascular endothelial growth factor A) (Protein),X-ray diffraction,2.75,01/07/15
+367,6wh9,"Fab 1D10, anti-KR1",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,"6-deoxyerythronolide-B synthase EryA1, KR1 (Pr1395-1875)(Q03131)EC:2.3.1.94 Saccharopolyspora erythraea (Protein)",X-ray diffraction,2.75,09/09/20
+230,5gzo,Antibody Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Genome polyprotein (A0A1B0XTC8) (Protein),X-ray diffraction,2.76,18/01/17
+322,6nnf,Fab 3H109L; scFv 35O22; scFv VRC01 FR3-03,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA; FV-HEAVY_LAMBDA; FV-HEAVY_KAPPA,Envelope glycoprotein gp120 (Protein); Envelope glycoprotein gp41 (Protein),X-ray diffraction,2.76,27/02/19
+175,4lmq,IMMUNOGLOBULIN G1 HEAVY CHAIN; STROMAL CELL-DERIVED FACTOR 1,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,STROMAL CELL-DERIVED FACTOR 1 (Protein),X-ray diffraction,2.77,14/08/13
+283,6cyf,Antibody Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"PcrV fragment, Type III secretion system protein (Protein)",X-ray diffraction,2.78,01/08/18
+288,6ewb,Fab 10E9,Homo sapiens,PDB,FAB-GAMMA-4_KAPPA,GII.4 caspid variant (in 2012) (Protein),X-ray diffraction,2.78,14/11/18
+294,6hxw,Fab IPH53,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"NT5E, 5'-nucleotidase (P21589) EC: 3.1.3.5 (Protein)",X-ray diffraction,2.78,28/08/19
+195,4r8w,CT149 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin (Protein),X-ray diffraction,2.79,26/08/15
+196,4rrp,Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Antigen Asf1p (Protein),X-ray diffraction,2.79,22/07/15
+240,5kan,Fab 16.G.07,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin HA1 [strain A/Hong Kong/1/1968 H3N2] residues: 24-360 (Protein); Hemagglutinin HA2 [strain A/Hong Kong/1/1968 H3N2] residues: 348-521 (Protein),X-ray diffraction,2.79,30/11/16
+264,5w6g,Fab 6649,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin HA1 (Protein),X-ray diffraction,2.79,20/12/17
+346,6umx,"mAb Erenumab, anti-GPCR",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,"Growth/differentiation factor 8, MSTN (Pr24-375)(O14793) (Protein)",X-ray diffraction,2.79,26/02/20
+73,1fc2,"Staphylococcus aureus protein A, fragment B::CH2-CH3 gamma1 (IGHG1)",Homo sapiens,PDB,(CH2-CH3),Fragment B of protein A [Staphylococcus aureus] (Protein),X-ray diffraction,2.8,15/07/92
+88,2fjg,"G6 Fab, anti-VEGFA",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,VEGF (Vascular endothelial growth factor A) (Protein),X-ray diffraction,2.8,13/07/11
+96,2ny6,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.8,13/07/11
+99,2r56,IgE Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,LGB (Beta-lactoglobulin) (P02754) (Protein),X-ray diffraction,2.8,24/02/09
+121,3l5y,Anti-human IL-13 antibody M1295 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Interleukin-13 (P35225) (Protein),X-ray diffraction,2.8,28/04/10
+126,3lzf,2D1 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin HA1 (Protein); Hemagglutinin HA2 (Protein),X-ray diffraction,2.8,13/07/11
+134,3r1g,YW412.8.31 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Beta-secretase 1, EC: 3.4.23.46 (Protein)",X-ray diffraction,2.8,08/06/11
+143,3ux9,"scFv, anti-IFN",Homo sapiens,PDB,SCFV-LAMBDA-HEAVY,Interferon alpha-1/13 (Protein),X-ray diffraction,2.8,29/02/12
+151,4dn4,CNTO888,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,C-C motif chemokine 2 (Protein),X-ray diffraction,2.8,03/10/12
+160,4g7y,FRAGMENT ANTIBODY,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,VOLTAGE-SENSOR CONTAINING PHOSPHATASE (Protein),X-ray diffraction,2.8,05/02/14
+168,4jzj,Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Interleukin-3 receptor subunit alpha (Protein),X-ray diffraction,2.8,09/04/14
+211,4yk4,641 I-9 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin (Protein),X-ray diffraction,2.8,27/05/15
+242,5kn5,LY3016859 Fab,Homo sapiens,PDB,FAB-GAMMA-4_KAPPA,Protransforming growth factor alpha (Protein),X-ray diffraction,2.8,31/08/16
+248,5ogi,scFv 9C12,Homo sapiens,PDB,SCFV-KAPPA-HEAVY,Hexon protein (Human adenovirus C serotype 5) (Protein),X-ray diffraction,2.8,07/02/18
+250,5sx4,Fab panitumumab,Homo sapiens,PDB,FAB-GAMMA-2_KAPPA,Epidermal Growth Factor Receptor (EGFR) (Protein),X-ray diffraction,2.8,05/10/16
+254,5ugy,"Fab CH65, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin HA1 (A7Y8A6) (Protein); Hemagglutinin HA2 (A7Y8A6) (Protein),X-ray diffraction,2.8,25/01/17
+268,5yy5,Antibody Fab Fragment,Homo sapiens,PDB,VH-V-LAMBDA,MERS-CoV RBD (Protein),X-ray diffraction,2.8,01/08/18
+279,6bkb,"Fab AR3A, broadly neutralizing antibody",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope Glycoprotein E2 (Protein),X-ray diffraction,2.8,26/12/18
+292,6gv4,Fab AT12-015,Homo sapiens,PDB,FV-HEAVY_KAPPA,"capsid proteins, Human parechovirus 3 (HPeV3) (Protein)",electron microscopy,2.8,21/11/18
+307,6mej,"Fab HEPC3, broadly neutralizing antibody; Fab HEPC74, broadly neutralizing antibody",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; FAB-GAMMA-1_LAMBDA,HCV E2 glycoprotein Epitope II (Protein),X-ray diffraction,2.8,21/11/18
+330,6pi7,Antibody Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Piwi-like protein 1 (Peptide); TDRKH, Tudor and KH domain-containing protein (Q9Y2W6) (Protein)",X-ray diffraction,2.8,24/07/19
+333,6pzf,"Fab NA-63, anti-N9",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Neuraminidase 6-393(Pr78-465) (V9NZ28) EC:3.2.1.18 mutant Y169aH (Protein),X-ray diffraction,2.8,04/12/19
+344,6ue9,IGHA2; PIGR (Polymeric immunoglobulin receptor),Homo sapiens,PDB,CH2-CH3; PIGR,Immunoglobulin J chain (Pr1-159)(P01591) (Protein),X-ray diffraction,2.8,19/02/20
+355,6v4o,"Fab 1G05, broadly protective; Fab 2E01, broadly protective",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Neuraminidase(Pr62-466) (A0A4P8YQ63) EC: 3.2.1.18 (Protein),electron microscopy,2.8,07/10/20
+391,7k37,Antibody Fab fragment,Homo sapiens,PDB,FAB-GAMMA-1_V-LAMBDA-C-KAPPA,Hemagglutinin HA (Pr1-345) (Q91MA7) (Protein); Hemagglutinin HA (Pr346-566) (C7RWD9) (Protein),electron microscopy,2.8,11/11/20
+388,7cu5,scFv camrelizumab,Homo sapiens,PDB,VH-V-KAPPA,PDCD1 (Programmed cell death protein 1) (Pr21-170) (Q15116) (Protein),X-ray diffraction,2.81,14/10/20
+166,4jkp,"45-46M2 mAb, anti-gp120 [HIV-1], broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.82,15/05/13
+170,4kht,8066 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Gp41 helix (Protein),X-ray diffraction,2.82,12/03/14
+223,5dur,100F4 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Hemagglutinin (Protein),X-ray diffraction,2.82,16/12/15
+304,6la7,"FCGRT (FcRn, neonatal Fc receptor)",Homo sapiens,PDB,MH1LIKE-ALPHA-LIKE_B2M,Capsid protein VP (Echovirus E11) (Protein),electron microscopy,2.82,07/10/20
+173,4kxz,GC1008,Homo sapiens,PDB,FAB-GAMMA-4_KAPPA,Transforming growth factor beta-2 (Protein),X-ray diffraction,2.83,24/09/14
+238,5k59,Antibody Fab Fragment,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Uncharacterized leukocidin-like protein (Protein),X-ray diffraction,2.84,10/08/16
+362,6vgr,"Fab SC-003, anti-DPEP3",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Dipeptidase 3(Pr1-448)(Q9H4B8)EC: 3.4.13.19 (Protein),X-ray diffraction,2.84,13/05/20
+135,3sdy,Fab CR8020,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin HA1 and HA2 chains (Protein),X-ray diffraction,2.85,11/01/12
+353,6uym,"Fab AR3C, anti-HCV, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein E2 (Pr412-588)(P27958) (Protein),X-ray diffraction,2.85,22/04/20
+387,7bwj,"Fab, anti-SARS-CoV-2 S RBD, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Spike (S) glycoprotein (P0DTC2) receptor binding domain (RBD) (Protein),X-ray diffraction,2.85,03/06/20
+128,3nfp,daclizumab Fab; ,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"IL-2-RA, residues 22-238 (P01589) (Protein)",X-ray diffraction,2.86,15/09/10
+375,6xc7,"Fab CC12.3, anti-SARS-CoV spike S1 RBD, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Spike (S1) glycoprotein receptor binding domain (RBD) (Protein),X-ray diffraction,2.88,08/07/20
+179,4m8q,GEP 1,Homo sapiens,PDB,FV-HEAVY_KAPPA,4E10 (Protein),X-ray diffraction,2.89,08/10/14
+185,4np4,bezlotoxumab Fab; ,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Toxin B (Protein),X-ray diffraction,2.89,21/05/14
+216,5a3i,FLD194 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin (Protein),X-ray diffraction,2.89,22/07/15
+226,5f9w,"CH235 mAb, [HIV-1], broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,clade A/E 93TH057 HIV-1 envelope glycoprotein gp120 (Protein),,2.89,09/03/16
+75,1g9n,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.9,13/07/11
+82,1rzk,"17B mAb, anti-gp120 [HIV-1]; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,2.9,13/07/11
+84,1ty6,10E5; INTEGRIN-ALPHA-IIB_BETA-3,"Homo sapiens, Mus musculus",PDB,FAB-GAMMA-2A_KAPPA; INTEGRIN-ALPHA-IIB_BETA-3,Eptifibatide (Protein),X-ray diffraction,2.9,12/10/04
+102,2wub,Fab 40.DELTATRP,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hepatocyte growth factor activator EC: 3.4.21.- (Peptide); Hepatocyte growth factor activator EC: 3.4.21.- (Protein),X-ray diffraction,2.9,28/03/12
+110,3be1,bH1,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,"Epidermal Growth Factor Receptor 2 (ERBB2 , HER2) (residues 23-646) (Protein)",X-ray diffraction,2.9,13/07/11
+144,3wkn,Fc-gamma1 (IGHG1),Homo sapiens,PDB,FC-GAMMA-1,AFFinger p17 (Protein),X-ray diffraction,2.9,29/10/14
+228,5gjs,"Fab 3E1, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin HA1 [A/California/04/2009 H1N1)]; residues: 21-344 (Protein); Hemagglutinin HA1 [A/California/04/2009 H1N1)]; residues: 345-523 (Protein),X-ray diffraction,2.9,07/12/16
+255,5usl,vv138 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,D8 IMV membrane (Protein),X-ray diffraction,2.9,20/09/17
+260,5vyf,"Antibody Fab Fragment, neutralizing antibody",Homo sapiens,PDB,FAB-GAMMA-4_KAPPA,Fel d1 (Protein),X-ray diffraction,2.9,04/04/18
+276,6b9j,Fab vv138,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,IMV(D8) membrane (Protein),X-ray diffraction,2.9,22/11/17
+286,6e3h,Fab S9-3-37,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin HA1 (Protein); Hemagglutinin HA2 (Protein),X-ray diffraction,2.9,26/09/18
+287,6erx,Fab belimumab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,TNFSF13B/BAFF (Protein),X-ray diffraction,2.9,31/01/18
+291,6fxn,Fab belimumab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,TNFSF13B/BAFF (Protein),X-ray diffraction,2.9,04/04/18
+299,6iw2,scFv 5A,Homo sapiens,PDB,SCFV-HEAVY-KAPPA,Envelope protein E (Protein); Envelope protein E Yellow fever virus (strain 17D vaccine) (YFV) (Pr286-680) (P03314) (Protein),X-ray diffraction,2.9,13/02/19
+306,6lxj,mAb Z2B3,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Neuraminidase (Pr1-469) Q9IGQ6 (Protein),X-ray diffraction,2.9,09/12/20
+326,6oan,scFv 053054,Homo sapiens,PDB,SCFV-HEAVY-LAMBDA,Duffy binding surface protein region II (B7T089) (Protein),X-ray diffraction,2.9,12/06/19
+329,6phc,Fab 2544,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,25 kDa ookinete surface antigen 5-175 (Pr22-193) (P13829) (Protein),X-ray diffraction,2.9,02/10/19
+349,6ute,"Fab Z032, anti-ZIKV, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope domain III (Pr593-690)(Q9Q6P4) (Protein),X-ray diffraction,2.9,15/04/20
+351,6uvo,"Fab 3G12, anti-human RSV, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Major surface glycoprotein G (RSV G) (Pr157-197) (P03423) (Protein),X-ray diffraction,2.9,18/12/19
+357,6v8z,Fab 10-1074; Fab VRC03,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA; FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp120 (Pr30-505) (Q2N0S6) (Protein); Envelope glycoprotein gp41 (Pr509-661) (Q2N0S7) (Protein),X-ray diffraction,2.9,05/02/20
+192,4py8,ANTIBODY 3.1,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin HA1 (Protein); Hemagglutinin HA2 (Protein),X-ray diffraction,2.91,21/05/14
+256,5v7j,Fab 35O22; Fab 3H+109L,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Envelope glycoprotein gp160 (Protein),X-ray diffraction,2.91,21/06/17
+310,6mg7,Fab CH54,Homo sapiens,PDB,FAB-GAMMA-1_V-KAPPA-C-LAMBDA,Envelope glycoprotein gp120 clade A/E 93TH057 (Protein); M48U1 CD4 mimetic (Peptide),X-ray diffraction,2.91,25/09/19
+318,6muf,Fab 3H109L; scFv 35O22,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA; FV-HEAVY_LAMBDA,Envelope glycoprotein gp160 (Protein),X-ray diffraction,2.91,16/01/19
+339,6s8j,"Fab 5T0180, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,"Envelope glycoprotein,Virion spike glycoprotein,EBOV-GP1 (Pr36-311)(Q05320) (Protein); Envelope glycoprotein,Virion spike glycoprotein,EBOV-GP1 (Pr502-632) (Q05320) (Protein)",electron microscopy,2.91,12/02/20
+171,4khx,8062 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Gp41 helix (Protein),X-ray diffraction,2.92,12/03/14
+263,5w4l,Fab N12-i3; Fab N5-i5,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; FAB-GAMMA-1_LAMBDA,CD4 mimetic peptide M48U1 (Protein); clade A/E 93TH057 HIV-1 gp120 core (Protein),X-ray diffraction,2.92,15/11/17
+301,6j71,scFv HuA21,Homo sapiens,PDB,SCFV-KAPPA-HEAVY,"ERBB2, Receptor tyrosine-protein kinase erbB-2 (P04626) EC: 2.7.10.1 (Protein)",X-ray diffraction,2.92,27/02/19
+311,6ml8,Fab C05,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin HA 1-165 (Pr 344-508) (Q2IBI1) (Protein); Hemagglutinin HA 5-330 (Pr 18-343) (Q2IBI1) (Protein),X-ray diffraction,2.92,17/10/18
+156,4fp8,C05 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin HA1 (Protein),X-ray diffraction,2.95,10/10/12
+319,6mug,Fab 3H109L; scFv 35O22,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA; FV-HEAVY_LAMBDA,Envelope glycoprotein gp160 (Protein),X-ray diffraction,2.95,16/01/19
+324,6nz7,"Fab 429 B01, broadly neutralizing antibody",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin HA1 [(strain A/Hong Kong/1/1968 H3N2)]; residues: 23-342 (Protein); Hemagglutinin HA2 [strain A/Hong Kong/1/1968 H3N2]; residues: 349-521 (Protein),X-ray diffraction,2.95,08/05/19
+393,7k9z,"298 Fab, anti-SARS-CoV-2 S RBD, neutralizing; 52 Fab, anti-SARS-CoV-2 S RBD, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Spike (S) glycoprotein (P0DTC2) receptor binding domain (RBD) (Protein),X-ray diffraction,2.95,28/10/20
+239,5k9k,Fab 56.A.09,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin HA1 [(strain A/Hong Kong/1/1968 H3N2)]; residues: 23-342 (Protein),X-ray diffraction,2.97,21/12/16
+381,6y9b,"Fab120.545, anti-steap1",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Metalloreductase STEAP1 (Pr2-339)Q9UHE8 (Protein),electron microscopy,2.97,20/05/20
+241,5kjr,N60-I3 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Envelope glycoprotein gp120 clade A/E 93TH057 (Protein); M48U1 CD4 mimetic peptide (Peptide),X-ray diffraction,2.98,20/07/16
+317,6mu8,Fab 3H109L; scFv 35O22,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA; FV-HEAVY_LAMBDA,Envelope glycoprotein gp160 (Protein),X-ray diffraction,2.99,16/01/19
+338,6s8i,"Fab 1T0227, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,"Envelope glycoprotein,Virion spike glycoprotein,EBOV-GP1 (Pr36-311)(Q05320) (Protein); Envelope glycoprotein,Virion spike glycoprotein,EBOV-GP1 (Pr502-632) (Q05320) (Protein)",electron microscopy,2.99,12/02/20
+146,3ztn,Fab FI6V3,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin HA1 and HA2 chains (C3W5S1) (Protein),X-ray diffraction,3,24/08/11
+149,4dke,FAb1.1,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Interleukin-34 (Protein),X-ray diffraction,3,25/04/12
+162,4hj0,"GIPG013 Fab, Antagonizing antibody to the GIP Receptor",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Gastric inhibitory polypeptide receptor (Protein),X-ray diffraction,3,29/05/13
+172,4kv5,GC1009 scFv,Homo sapiens,PDB,FV-HEAVY_KAPPA,Transforming growth factor beta-1 (Protein),X-ray diffraction,3,24/09/14
+177,4lsv,"3BNC117 mAb, anti-gp120 [HIV-1]",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp120 (Protein),X-ray diffraction,3,21/08/13
+190,4p9h,"8ANC195 mAb, anti-gp120 [HIV-1],broadly neutralizing; CD4",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),X-ray diffraction,3,21/05/14
+199,4uta,"EDE1 C8 Fab, anti-Dengue virus 2 envelope dimer epitope, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein E (Protein),X-ray diffraction,3,28/01/15
+212,4ywg,"830A V1V2 mAb, anti-gp41 [HIV-1], broadly neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Scaffold HIV-1 gp120 V1V2 region derived from strain ZM109 (Protein),X-ray diffraction,3,15/07/15
+222,5dum,65C6 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin (Protein),X-ray diffraction,3,16/12/15
+229,5gzn,"Antibody Fab Fragment, neutralizing antibody",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Zika Envelope Genome polyprotein (A0A1B0XTC8) (Protein),X-ray diffraction,3,28/12/16
+232,5hhx,CAT-2000 Fab,Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,IL-17A peptide inhibitor (Peptide); Interleukin-17A (Protein),X-ray diffraction,3,01/06/16
+234,5i9q,3BNC55 Fab,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,426c.TM4dV1-3 p120 (Protein),X-ray diffraction,3,04/05/16
+253,5th9,Fab GS-5745,Homo sapiens,PDB,FAB-GAMMA-4_KAPPA,"Matrix metalloproteinase-9,Matrix metalloproteinase-9 (P14780) EC: 3.4.24.35 (Protein)",X-ray diffraction,3,15/03/17
+258,5vic,"Fab Z004, anti-Zika, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Dengue 1 Envelope DIII domain (Protein),X-ray diffraction,3,03/05/17
+259,5vig,Fab Z006,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope protein (Protein),X-ray diffraction,3,03/05/17
+271,6al5,Fab B43,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,B-lymphocyte antigen CD19 ((N138Q Mutant) (Protein),X-ray diffraction,3,28/03/18
+308,6mfp,Fab DH677.3,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,CD4-mimetic miniprotein M48U1 (Protein); Envelope glycoprotein gp120 HIV-1 CLADE A/E 93TH057 (Protein),X-ray diffraction,3,18/09/19
+327,6p3r,Fab H5.3,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Hemagglutinin (Pr65-275) (Q1KHK2) (Protein),X-ray diffraction,3,27/05/20
+334,6pzw,"Fab NA-22, anti-N9",Homo sapiens,PDB,FAB-GAMMA-1_LAMBDA,Neuraminidase (Pr37-465) (S5MF06) EC:3.2.1.18 (Protein),X-ray diffraction,3,04/12/19
+337,6s3d,"Fab D25, anti-RSV, neutralizing",Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,S0_2.126 (Protein),X-ray diffraction,3,22/04/20
+356,6v8x,Fab VRC01,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp120 (Pr32-502) Q2N0S6 (Protein); Envelope glycoprotein gp41(Pr519-663) Q2N0S9 (Protein),electron microscopy,3,05/02/20
+378,6xlq,Fab CTX-2026,Homo sapiens,PDB,FAB-GAMMA-1_KAPPA,Butyrophilin subfamily 3 member A1 (Pr 30-255) O00481 (Protein),X-ray diffraction,3,02/09/20
+392,7k39,Antibody Fab fragment,Homo sapiens,PDB,FAB-GAMMA-1_V-LAMBDA-C-KAPPA,Hemagglutinin HA (Pr1-345) (Q91MA7) (Protein); Hemagglutinin HA (Pr346-566) (C7RWD9) (Protein),X-ray diffraction,3,11/11/20

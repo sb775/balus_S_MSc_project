@@ -1,0 +1,11 @@
+Chain,Position,Wild Type,Mutant,mcsm-ppi2-prediction distance-to-interface,mcsm-ppi2-prediction ddG (kCal/mol),mcsm-ppi2-prediction affinity,SAAMBE3D  ddG (kCal/mol),SAAMBE3D Type,SAAMBE3D Disruptive/Non-disruptive,MutaBind2 DDG,Interface?,Deleterious?,DDE_vdw,DDG_solv,DDG_fold,CS,SA_com_wt,SA_part_wt,N_cont_wt,bootstrapFC,Model_Bias
+H,30,S,R,7.615,0.086,Increasing,0.38,Destabilizing,Nondisruptive,0.04,no,no,-0.0074,0.5134,0.1203,-1.4713,0.2078,0.2434,0.0049,-0.0018,0.4286
+H,31,S,T,3.712,0.601,Increasing,0.44,Destabilizing,Nondisruptive,-0.22,yes,no,0.0495,0.0572,0.0552,-0.8044,0.0621,-0.0789,0.0166,-0.0018,0.4286
+H,34,I,M,6.864,0.145,Increasing,0.45,Destabilizing,Disruptive,1.09,no,no,-0.3769,-0.2498,0.8799,0.0982,0.589,-0.6428,0.3704,-0.0018,0.4286
+H,35,S,H,3.774,-1.69,Decreasing,0.72,Destabilizing,Nondisruptive,0.96,yes,no,-0.3079,-0.2602,0.8071,0.3016,0.006,-0.1923,0.1779,-0.0018,0.4286
+H,52,I,V,3.162,-0.398,Decreasing,0.2,Destabilizing,Nondisruptive,0.58,yes,no,0.0842,-0.1715,-0.4033,-0.0174,0.5987,-0.0313,0.094,-0.0018,0.4286
+H,54,I,Y,6.19,-0.409,Decreasing,1.12,Destabilizing,Nondisruptive,0.13,no,no,-0.0967,-0.1311,-0.1684,0.1944,-0.2664,0.0812,0.0874,-0.0018,0.4286
+H,55,F,H,2.802,-0.326,Decreasing,0.42,Destabilizing,Disruptive,-0.31,yes,no,-0.0044,-0.1258,-0.4819,0.0603,-0.2624,0.0789,0.0033,-0.0018,0.4286
+H,57,T,I,3.575,-0.86,Decreasing,0.28,Destabilizing,Disruptive,1.29,yes,no,0.6011,0.1388,1.141,-1.1949,-0.0401,0.2638,-0.0416,-0.0018,0.4286
+H,58,A,T,4.301,-0.288,Decreasing,0.81,Destabilizing,Nondisruptive,0.36,yes,no,-0.0785,-0.1299,-0.1616,0.4044,-0.1587,-0.0291,0.0815,-0.0018,0.4286
+H,59,N,D,2.542,1.036,Increasing,1.58,Destabilizing,Nondisruptive,-0.89,yes,no,0.0015,-0.1604,-0.3932,-1.011,0.1926,0.0902,-0.0361,-0.0018,0.4286

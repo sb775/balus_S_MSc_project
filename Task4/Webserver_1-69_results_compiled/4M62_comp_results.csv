@@ -1,0 +1,2 @@
+Chain,Position,Mutant,Wild Type,mcsm-ppi2-prediction distance-to-interface,mcsm-ppi2-prediction ddG (kCal/mol),mcsm-ppi2-prediction affinity,SAAMBE3D  ddG (kCal/mol),SAAMBE3D Type,SAAMBE3D Disruptive/Non-disruptive,MutaBind2 DDG,Interface?,Deleterious?,DDE_vdw,DDG_solv,DDG_fold,CS,SA_com_wt,SA_part_wt,N_cont_wt,bootstrapFC,Model_Bias
+I,73,K,E,2.734,-0.312,Decreasing,0.99,Destabilizing,Nondisruptive,1,yes,no,-0.0528,0.7909,-0.2439,-0.0354,-0.261,0.3009,0.0726,-0.0018,0.4286

@@ -1,0 +1,6 @@
+H 12 R K
+H 16 A S
+H 27 D G
+H 62 A K
+H 72 N D
+H 89 I V

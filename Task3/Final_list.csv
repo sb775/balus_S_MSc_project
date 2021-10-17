@@ -1,0 +1,43 @@
+PDB,frame_ig,IMGT receptor description,Ligand(s),Resolution
+4J6R,IGHV1-3*01,FAB-GAMMA-1_KAPPA,Envelope glycoprotein gp160 (Protein),1.64
+5OTJ,IGHV1-3*01,FAB-GAMMA-1_LAMBDA,Polcalcin Phl p 7 (Protein),2.35
+5F9O,IGHV1-46*01,FAB-GAMMA-1_KAPPA,clade A/E 93TH057 HIV-1 envelope glycoprotein gp120 (Protein),1.86
+2CMR,IGHV1-69*01,FAB-GAMMA-3_KAPPA,Envelope glycoprotein gp160 (P04578) (Protein),2
+2XRA,IGHV1-69*01,FAB-GAMMA-1_KAPPA,Transmembrane protein gp41 (Protein),2.3
+3GBN,IGHV1-69*01,FAB-GAMMA-1_LAMBDA,Hemagglutinin HA1 peptide (Q9WFX3) (Protein),2.2
+3NPS,IGHV1-69*01,FAB-GAMMA-1_V-LAMBDA-C-KAPPA,"Suppressor of tumorigenicity 14 protein (Q9Y5Y6), E.C: 3.4.21.109 (Protein)",1.5
+4FQI,IGHV1-69*01,FAB-GAMMA-1_LAMBDA,Hemagglutinin HA (Protein),1.71
+4M62,IGHV1-69*01,FV-HEAVY_KAPPA,T117 (Protein),1.8
+4XAK,IGHV1-69*01,FAB-GAMMA-1_KAPPA,Spike glycoprotein (Protein),2.45
+5CZX,IGHV1-69*01,FAB-GAMMA-1_KAPPA,Notch3 (Neurogenic locus notch homolog protein 3) (Protein),2.1
+1G9M,IGHV1-69*02,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),2.2
+2NXY,IGHV1-69*02,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),2
+2NY1,IGHV1-69*02,FAB-GAMMA-1_KAPPA; 1V-1C-LIKE,Envelope glycoprotein gp120 (Protein),1.99
+4NIK,IGHV3-11*01,SCFV-HEAVY-LAMBDA,"PSMD10 (proteasome (prosome, macropain) 26S subunit, non-ATPase, 10; 26S proteasome non-ATPase regulatory subunit 10, gankyrin) (O76832) (Protein)",2.5
+3KR3,IGHV3-23*03,FAB-GAMMA-1_KAPPA,Insulin-like growth factor II (IGF2) (Protein),2.2
+1NL0,IGHV3-30*01,FAB-GAMMA-1_LAMBDA,Factor IX Gla domain (Protein),2.2
+3IDX,IGHV3-30*01,FAB-GAMMA-1_KAPPA,"HIV-1 HxBc2 gp120 core, M95>W, T257>S, S375>W, A443>M, W96>C, V275>C, I109>C, Q428>C (Protein)",2.5
+3U2S,IGHV3-30*02,FAB-GAMMA-1_LAMBDA,Envelope glycoprotein gp120 (Protein),1.8
+4DQO,IGHV3-30*02,FAB-GAMMA-1_LAMBDA,1FD6-V1V2 scaffold ZM109 HIV-1 strain (Protein),2.44
+4QCI,IGHV3-30*02,FAB-GAMMA-4_LAMBDA,Platelet-derived growth factor subunit B (Protein),2.3
+5BV7,IGHV3-33*01,FAB-GAMMA-1_LAMBDA,Phosphatidylcholine-sterol acyltransferase (Protein),2.45
+5J13,IGHV3-33*01,FAB-GAMMA-2_LAMBDA,Thymic stromal lymphopoietin (Protein),2.3
+6D0X,IGHV3-33*01,FAB-GAMMA-1_KAPPA,Circumsporozoite protein NANP3 (Protein),1.85
+6DKJ,IGHV3-33*01,FAB-GAMMA-1_KAPPA,"GIPR, Gastric inhibitory polypeptide receptor (Pr21-138)(P48546) (Protein)",1.95
+3SOB,IGHV3-64*04,FAB-GAMMA-1_KAPPA,Low-density lipoprotein receptor-related protein 6 (O75581) (Protein),1.9
+4G7V,IGHV3-64*04,FAB-GAMMA-1_KAPPA,VOLTAGE-SENSOR CONTAINING PHOSPHATASE (Protein),2.5
+4K94,IGHV3-64*04,FAB-GAMMA-1_KAPPA,Mast/stem cell growth factor receptor Kit (Protein),2.4
+4ZFG,IGHV3-64*04,FAB-GAMMA-1_KAPPA,Angiopoietin-2 (Protein),2.27
+5BJZ,IGHV3-64*04,FAB-GAMMA-1_KAPPA,Maltose-binding periplasmic protein (Protein),1.95
+5LBS,IGHV3-64*04,FV-HEAVY_KAPPA,Envelope protein E (Protein),2.41
+4TSA,IGHV3-66*01,FAB-GAMMA-1_LAMBDA,Lysozyme C [hen egg white] (HEL) (Protein),2.27
+4TSB,IGHV3-66*01,FAB-GAMMA-1_LAMBDA,Lysozyme C [hen egg white] (HEL) (Protein),1.95
+4TSC,IGHV3-66*01,FAB-GAMMA-1_LAMBDA,Lysozyme C [hen egg white] (HEL) (Protein),1.92
+4TTD,IGHV3-66*01,FAB-GAMMA-1_LAMBDA,Lysozyme C [hen egg white] (HEL) (Protein),2.15
+2YC1,IGHV3-9*01,SCFV-HEAVY-KAPPA,Beta-mammal toxin Cn2 (P01495) (Protein),1.9
+6PHB,IGHV4-4*07,FAB-GAMMA-1_KAPPA,25 kDa ookinete surface antigen 5-175 (Pr22-193) (P13829) (Protein),2
+6DFJ,IGHV4-59*01,FAB-GAMMA-1_KAPPA,Dengue 1 (DENV-1) Envelope DIII (Pr297-396) (Protein),2.07
+6IEB,IGHV4-59*01,FAB-GAMMA-1_LAMBDA,"RVFV Gn, Rift Valley fever virus (Pr154-469) (P03518) (Protein)",2.41
+6IVZ,IGHV4-59*01,SCFV-HEAVY-KAPPA,"Envelope protein, Yellow fever virus (Q89292) (Protein)",2.4
+6MTJ,IGHV4-59*01,FAB-GAMMA-1_LAMBDA; FV-HEAVY_LAMBDA,Envelope glycoprotein gp160 (Protein),2.34
+6PCU,IGHV4-61*02,FV-HEAVY_LAMBDA,capsid protein VP4 (Q2VE61) (Protein),2.4

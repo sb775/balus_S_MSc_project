@@ -1,0 +1,6 @@
+H	R12	K
+H	A16	S
+H	D27	G
+H	A62	K
+H	N72	D
+H 	I89	V

@@ -1,0 +1,23 @@
+Chain,Position,Mutant,Wild Type,mcsm-ppi2-prediction distance-to-interface,mcsm-ppi2-prediction ddG (kCal/mol),mcsm-ppi2-prediction affinity,SAAMBE3D  ddG (kCal/mol),SAAMBE3D Type,SAAMBE3D Disruptive/Non-disruptive,MutaBind2 DDG,Interface?,Deleterious?,DDE_vdw,DDG_solv,DDG_fold,CS,SA_com_wt,SA_part_wt,N_cont_wt,bootstrapFC,Model_Bias
+H,5,L,V,10.201,0.021,Increasing,0.54,Destabilizing,Disruptive,-0.67,no,no,0.0666,0.0877,0.0864,-1.2646,0.0674,0.1511,-0.2883,-0.0018,0.4286
+H,6,E,Q,6.818,0.169,Increasing,0.75,Destabilizing,Nondisruptive,-0.53,no,no,0.028,-0.0259,-0.8596,-0.0474,0.1012,-0.0311,-0.1248,-0.0018,0.4286
+H,27,D,G,12.646,-0.179,Decreasing,0.65,Destabilizing,Nondisruptive,0.29,no,no,-0.0611,-0.0817,-0.1609,0.1949,-0.1288,0.0453,0.0583,-0.0018,0.4286
+H,30,I,S,8.615,0.083,Increasing,0.04,Destabilizing,Disruptive,-0.74,no,no,0.0358,0.0997,0.6317,-1.6807,0.118,-0.1753,-0.1996,-0.0018,0.4286
+H,31,R,S,7.894,0.129,Increasing,0.88,Destabilizing,Disruptive,-0.66,no,no,-0.1107,0.1727,0.4006,-1.4326,0.1873,-0.0777,-0.2297,-0.0018,0.4286
+H,33,S,T,7.886,-0.299,Decreasing,0.36,Destabilizing,Nondisruptive,-0.01,no,no,-0.2932,-0.1289,-0.2317,0.0546,0.3733,-0.3286,0.1147,-0.0018,0.4286
+H,34,F,I,8.655,-0.69,Decreasing,0.88,Destabilizing,Nondisruptive,-0.4,no,no,0.0254,0.1809,0.9903,-1.5004,-0.0194,-0.2342,-0.2656,-0.0018,0.4286
+H,35,T,S,6.233,0.161,Increasing,1,Destabilizing,Nondisruptive,-0.76,no,no,0.1122,0.1969,0.0108,-1.0857,0.0244,-0.0644,-0.3767,-0.0018,0.4286
+H,53,T,P,8.504,0.001,Increasing,0.43,Destabilizing,Nondisruptive,-1.67,no,yes,0.1462,0.2969,-0.3684,-1.3444,-0.1005,-0.0223,-0.7031,-0.0018,0.4286
+H,56,D,G,5.565,-0.061,Decreasing,1.36,Destabilizing,Nondisruptive,-1.9,no,yes,0.1598,0.2082,-1.1381,-1.2334,0.4161,0.0003,-0.7367,-0.0018,0.4286
+H,57,V,I,3.797,-0.335,Decreasing,0.28,Destabilizing,Nondisruptive,0.96,yes,no,0.7518,0.0368,-0.6421,0.069,0.2954,-0.0394,0.0664,-0.0018,0.4286
+H,59,H,N,2.778,0.603,Increasing,0.91,Destabilizing,Nondisruptive,-0.41,yes,no,-0.1233,0.0308,0.0446,-0.8339,0.1384,0.1021,-0.1994,-0.0018,0.4286
+H,62,P,Q,4.118,0.214,Increasing,-0.05,Stabilizing,Nondisruptive,0,no,no,-0.0484,-0.0782,-0.1509,0.0719,-0.2732,0.0751,-0.0243,-0.0018,0.4286
+H,63,H,K,7.571,0.004,Increasing,0.46,Destabilizing,Nondisruptive,-1.11,no,no,0.0855,0.1122,-0.1567,-1.4107,0.2089,0.0839,-0.4594,-0.0018,0.4286
+H,64,L,F,9.542,0.39,Increasing,0.18,Destabilizing,Nondisruptive,-1.12,no,no,0.1874,0.2534,-0.0604,-1.0605,-0.2637,-0.0526,-0.5457,-0.0018,0.4286
+H,79,V,A,14.37,-0.369,Decreasing,0.34,Destabilizing,Nondisruptive,1.08,no,no,-0.3344,-0.2069,0.9185,-0.1076,0.4992,-0.5414,0.4305,-0.0018,0.4286
+H,81,L,M,12.669,-0.131,Decreasing,0.19,Destabilizing,Nondisruptive,0.18,no,no,-0.062,-0.0527,-0.1919,0.0475,0.1135,-0.2595,0.1567,-0.0018,0.4286
+H,84,R,S,14.235,0.112,Increasing,0.53,Destabilizing,Nondisruptive,-0.31,no,no,0.0904,0.1035,0.1177,-1.1364,0.2026,0.0101,-0.1288,-0.0018,0.4286
+H,85,N,S,20.007,-0.03,Decreasing,0.37,Destabilizing,Disruptive,-0.34,no,no,0.0877,0.0542,0.1448,-1.0275,0.0983,0.0496,-0.1721,-0.0018,0.4286
+H,89,D,E,14.661,0.079,Increasing,0.58,Destabilizing,Nondisruptive,-0.39,no,no,0.0615,0.0554,0.0011,-0.9812,0.1354,0.1221,-0.2108,-0.0018,0.4286
+H,95,F,Y,3.667,0.761,Increasing,0.77,Destabilizing,Nondisruptive,-1.06,no,no,0.0931,0.1447,0.0193,-1.4912,0.1807,-0.1073,-0.323,-0.0018,0.4286
+H,98,G,R,7.687,0.9,Increasing,-0.1,Stabilizing,Nondisruptive,-1.18,no,no,0.0091,0.1888,0.7968,-2.0242,0.0074,-0.1655,-0.4153,-0.0018,0.4286

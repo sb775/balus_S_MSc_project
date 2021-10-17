@@ -1,0 +1,25 @@
+#Databases of the clusters of the antibody complementarity determinging regions (CDRs) in the PDB
+
+#Of seven available databases, the following was downloaded.
+
+# * Non-redundant antibody database by a single CDR, CDRs and clusters for sequences non-redundant for a given CDR type. A chain containing the CDR is selected in the order of: Highest #   resolution 2.8 Lowest R factor 0.3. Lowest normalized distance to the center structure.
+
+
+# *The output has been copied and pasted into a spreadsheet: 'PyIgClassify_data.csv'.
+
+  
+      
+
+###Search 1 - FINAL QUERY
+
+SELECT DISTINCT g.PDB, g.Original_Chain, Type, PDBspecies, frame_ig, cdr1_len, cdr1_start, cdr1_end, cdr1_sequence, cdr2_len, cdr2_start, cdr2_end, cdr2_sequence, resolution
+FROM GermlineAssignments g, cdr_data cd
+WHERE Type = 'H'
+AND PDBspecies = 'Homo.sapiens'
+AND frame_species = 'Hu'
+AND cdr1_species = 'Hu'
+AND cdr2_species = 'Hu'
+AND resolution <= 2.5
+AND g.PDB = cd.PDB;
+
+
