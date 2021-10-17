@@ -15,7 +15,7 @@ The folder contains:
 7) An output folder called 'Webserver_1-69_results_compiled' contains:
 
 	* Files which end in '_comp_results.csv' pertain to the combined results created from output from the 3 modellers for the 11 PDBs.  
-	* All stacked barplots are saved as.bmp files according to the Physio-chemical property plotted.
+	* Stacked barplots are saved as.bmp files according to the Physio-chemical property plotted.
 	* File called 'df_all.csv' is an output file of a compiled dataframe of all 134 variants identified in this study.
 	* File called 'final_list_of_interest.csv' is the output containing all 134 variants with only the columns of interest included.
 	* File called 'final_list_top_21.xlsx' contains the top 21 variants of interest.
